@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f3ed"/>
+  <circle cx="967" cy="140" r="235" fill="#153f52"/>
+  <text x="84" y="250" font-family="Arial,sans-serif" font-size="40" fill="#666b66">АКАДЕМИЧЕСКОЕ ПОРТФОЛИО</text>
+  <text x="78" y="380" font-family="Georgia,serif" font-size="96" font-style="italic" fill="#111615">Гульнар Астаубаева</text>
+  <line x1="84" y1="472" x2="1116" y2="472" stroke="#111615" stroke-opacity=".25"/>
+</svg>
