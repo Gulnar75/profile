@@ -36,7 +36,8 @@
     "metrics": [
       { "value": "25+", "label": "years at Narxoz University" },
       { "value": "7", "label": "Scopus publications" },
-      { "value": "4", "label": "h-index" }
+      { "value": "4", "label": "h-index" },
+      { "value": "50+", "label": "scientific publications and educational-methodological works" }
     ],
     "about": [
       "PhD in Economics and Assistant Professor at the School of Digital Technologies, Narxoz University. Since 2000, I have combined teaching, research and continuous technical development.",
@@ -73,7 +74,7 @@
         "period": "2000 — present", "role": "Assistant Professor",
         "company": "School of Digital Technologies · Narxoz University · Almaty",
         "achievements": [
-          "📚 50+ scientific publications and educational-methodological works",
+          "Author of more than 50 scientific articles and educational-methodological works.",
           "Teach ICT, databases, Oracle SQL, web technologies and internet application development.",
           "7 Scopus publications, 10+ CQAES publications and participation in 10+ international conferences.",
           "Authored one monograph and two textbooks; current h-index is 4."

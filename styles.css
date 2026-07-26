@@ -105,7 +105,7 @@ h2 { margin-bottom: 0; font: 600 clamp(46px, 6vw, 82px)/.98 var(--display); lett
 .portrait-shade { position: absolute; inset: 55% 0 0; background: linear-gradient(transparent, rgba(8, 13, 15, .72)); }
 .portrait-card p { position: relative; margin: auto 0 0; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
 .orbit-note { position: absolute; right: -38px; bottom: 40px; display: grid; width: 116px; height: 116px; place-items: center; background: var(--paper); border: 1px solid var(--line); border-radius: 50%; color: var(--muted); font-size: 11px; text-align: center; text-transform: uppercase; }
-.metrics { display: grid; margin-top: 72px; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.metrics { display: grid; margin-top: 72px; grid-template-columns: repeat(4, 1fr); gap: 14px; }
 .metric { position: relative; display: flex; min-height: 112px; padding: 24px 26px; align-items: flex-end; gap: 14px; overflow: hidden; background: color-mix(in srgb, var(--paper-soft) 62%, transparent); border: 1px solid var(--line); border-radius: 18px; transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease; }
 .metric::after { position: absolute; top: -28px; right: -22px; width: 84px; height: 84px; background: var(--accent); border-radius: 50%; content: ""; opacity: .055; }
 .metric:hover { border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); box-shadow: 0 16px 34px rgba(12,18,16,.08); transform: translateY(-4px); }
@@ -113,6 +113,10 @@ h2 { margin-bottom: 0; font: 600 clamp(46px, 6vw, 82px)/.98 var(--display); lett
 .metric:last-child { border: 1px solid var(--line); }
 .metric strong { font: 500 clamp(32px, 4vw, 52px)/1 var(--serif); }
 .metric span { color: var(--muted); font-size: 13px; }
+
+@media (max-width: 1120px) and (min-width: 901px) {
+  .metrics { grid-template-columns: repeat(2, 1fr); }
+}
 
 .work-section { background: var(--ink); color: var(--paper); }
 .section-heading { display: grid; margin-bottom: 76px; grid-template-columns: 1.5fr .5fr; align-items: end; gap: 40px; }
