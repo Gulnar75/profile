@@ -80,6 +80,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 
 .hero { padding-top: 80px; overflow: hidden; }
 .hero-grid { display: grid; min-height: 620px; grid-template-columns: 1.2fr .8fr; align-items: center; gap: 8vw; }
+.hero-copy { min-width: 0; }
 .availability { display: inline-flex; margin-bottom: 44px; align-items: center; gap: 10px; color: var(--muted); font-size: 13px; }
 .status-dot { width: 8px; height: 8px; background: #4c7c63; border-radius: 50%; box-shadow: 0 0 0 5px color-mix(in srgb, #4c7c63 15%, transparent); }
 h1, h2, h3, p { margin-top: 0; }
@@ -231,10 +232,12 @@ blockquote { margin: 56px 0 0; padding: 26px 0 0; border-top: 1px solid var(--li
   .brand-name { display: none; }
   .hero { padding-top: 62px; }
   h1 { font-size: clamp(50px, 14vw, 66px); letter-spacing: -.065em; }
+  .hero-copy, .hero-copy > * { max-width: 100%; }
+  .hero-copy .eyebrow, .professional-status, .hero-lead { overflow-wrap: anywhere; word-break: normal; }
   .hero-actions { align-items: flex-start; flex-direction: column; gap: 20px; }
   .language-switcher button { min-width: 27px; padding: 0 3px; }
-  .nav-wrap { gap: 8px; }
-  .nav-actions { gap: 3px; }
+  .nav-wrap { position: relative; gap: 8px; }
+  .nav-actions { position: absolute; right: 0; gap: 3px; }
   .nav-actions > .icon-button { display: none; }
   .menu-button { width: 38px; }
   .projects-grid, .detail-grid { grid-template-columns: 1fr; }
