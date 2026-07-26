@@ -4,3 +4,14 @@
 # Локальные системные файлы
 .DS_Store
 Thumbs.db
+
+# Секретные коды восстановления никогда не должны попадать в Git.
+recovery-codes.txt
+.env
+.env.*
+
+# Локальные снимки браузерной проверки
+desktop.png
+mobile.png
+fullpage.png
+pdf-preview.png

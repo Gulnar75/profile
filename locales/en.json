@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "title": "Gulnar Astaubayeva — AI Automation Engineer & Full-Stack Developer",
+    "description": "Portfolio of Gulnar Astaubayeva: AI automation, full-stack development, Python, PHP, education and research."
+  },
+  "ui": {
+    "skip": "Skip to content", "home": "Home",
+    "nav": { "work": "Projects", "experience": "Experience", "about": "About", "contact": "Contact" },
+    "themeDark": "Switch to dark theme", "themeLight": "Switch to light theme", "themeTitle": "Change theme",
+    "downloadCv": "Download CV", "menu": "Open menu", "viewProjects": "View projects", "getInTouch": "Get in touch",
+    "portfolio": "Professional portfolio · 2026", "orbit": "Think systematically · Build clearly",
+    "workEyebrow": "Selected work", "workTitle": "Projects where ideas|became outcomes.",
+    "workIntro": "Key areas of work presented through context, contribution, solution and measurable impact.",
+    "experienceEyebrow": "Professional journey", "experienceTitle": "Experience and|impact.",
+    "experienceIntro": "Concrete challenges, solutions and verifiable results.",
+    "aboutEyebrow": "About me", "aboutTitle": "Working where meaning|meets systems.", "skills": "Expertise",
+    "education": "Education", "languages": "Languages", "nextStep": "Next step",
+    "contactTitle": "Let's build|something meaningful.",
+    "profiles": "Professional profiles", "quickContact": "Quick contact", "location": "Location",
+    "print": "Print résumé", "footer": "Designed with attention to detail.", "toTop": "Back to top",
+    "close": "Close", "openCase": "Open case study", "problem": "Challenge", "solution": "Solution",
+    "result": "Outcome", "openProject": "Open project", "whatsapp": "WhatsApp", "telegram": "Telegram", "email": "Email",
+    "whatsappMessage": "Hello Gulnar! I found your portfolio and would like to discuss a project.",
+    "telegramMessage": "Hello! I would like to discuss cooperation.",
+    "emailSubject": "Portfolio Inquiry",
+    "emailBody": "Hello Gulnar,\n\nI visited your portfolio website and would like to discuss a potential collaboration.\n\nBest regards,"
+  },
+  "profile": {
+    "firstName": "Gulnar", "lastName": "Astaubayeva",
+    "role": "PhD in Economics · Assistant Professor",
+    "status": "AI Automation Engineer • Full-Stack Web Developer • Python & PHP Developer",
+    "positioning": "I create digital solutions combining AI automation, information systems, databases and education.",
+    "availability": "School of Digital Technologies · Narxoz University",
+    "contactNote": "Open to discussing AI automation, development, academic collaboration and educational projects.",
+    "principle": "“Technology becomes valuable when complex knowledge turns into a clear system.”",
+    "metrics": [
+      { "value": "25+", "label": "years at Narxoz University" },
+      { "value": "7", "label": "Scopus publications" },
+      { "value": "4", "label": "h-index" }
+    ],
+    "about": [
+      "PhD in Economics and Assistant Professor at the School of Digital Technologies, Narxoz University. Since 2000, I have combined teaching, research and continuous technical development.",
+      "I work with Python, PHP, JavaScript, SQL and modern AI tools. I teach databases, Oracle SQL, web technologies, internet application development and discrete mathematics."
+    ],
+    "projects": [
+      {
+        "number": "01", "title": "Research", "category": "Research · publications",
+        "summary": "Research at the intersection of economics, mathematical methods and digital technologies.",
+        "problem": "Advance knowledge in mathematical and instrumental methods of economics.",
+        "solution": "A monograph, textbooks, research papers and presentations for international conferences.",
+        "result": "1 monograph, 2 textbooks, 7 Scopus papers, 10+ CQAES publications and 10+ international conferences. h-index: 4.",
+        "role": "Researcher", "stack": ["Econometrics", "Mathematical methods", "Academic publishing"], "link": "scopus", "tone": "cobalt"
+      },
+      {
+        "number": "02", "title": "Digital disciplines", "category": "Teaching · Narxoz University",
+        "summary": "Core and applied courses for future digital professionals.",
+        "problem": "Give students systematic foundations and practical information-systems skills.",
+        "solution": "Teaching ICT, databases, Oracle SQL, web technologies, internet applications and discrete mathematics.",
+        "result": "Continuous teaching at Narxoz University since 2000.",
+        "role": "Assistant Professor", "stack": ["SQL", "Oracle Database", "Web technologies", "Discrete mathematics"], "link": "orcid", "tone": "clay"
+      },
+      {
+        "number": "03", "title": "Software engineering", "category": "Professional development · 2022–2024",
+        "summary": "Extending an academic foundation with modern development and AI expertise.",
+        "problem": "Complement mathematics and education with hands-on software engineering.",
+        "solution": "Software engineering degree and professional training in Python, SQL, MongoDB, PHP, Yii2, 1C and generative AI.",
+        "result": "Bachelor's degree in Software Engineering and specialist certificates.",
+        "role": "Full-Stack Developer", "stack": ["Python", "PHP", "JavaScript", "Yii2", "MongoDB"], "link": "", "tone": "olive"
+      }
+    ],
+    "experience": [
+      {
+        "period": "2000 — present", "role": "Assistant Professor",
+        "company": "School of Digital Technologies · Narxoz University · Almaty",
+        "achievements": [
+          "Teach ICT, databases, Oracle SQL, web technologies and internet application development.",
+          "7 Scopus publications, 10+ CQAES publications and participation in 10+ international conferences.",
+          "Authored one monograph and two textbooks; current h-index is 4."
+        ],
+        "tags": ["Higher education", "Research", "Information technology"]
+      }
+    ],
+    "skills": [
+      { "category": "Development", "items": ["HTML & CSS", "JavaScript", "PHP", "Python 3", "Yii2", "Bootstrap 5", "WordPress"] },
+      { "category": "Data & AI", "items": ["SQL & PL/SQL", "MySQL", "Oracle Database", "PostgreSQL", "MongoDB", "Generative AI"] },
+      { "category": "Teaching", "items": ["ICT", "Databases", "Web technologies", "Internet applications", "Discrete mathematics"] }
+    ],
+    "education": [
+      { "years": "2022 — 2024", "title": "International Engineering and Technology University", "detail": "BSc, Software Engineering" },
+      { "years": "2010", "title": "PhD in Economics", "detail": "Mathematical and instrumental methods of economics · 08.00.13" },
+      { "years": "1998 — 2000", "title": "Al-Farabi Kazakh National University", "detail": "Postgraduate studies, Methods of Teaching Mathematics" },
+      { "years": "1996 — 1998", "title": "Al-Farabi Kazakh National University", "detail": "Master's degree, General Pedagogy" },
+      { "years": "1992 — 1996", "title": "Al-Farabi Kazakh National University", "detail": "Bachelor's degree, Applied Mathematics" }
+    ],
+    "languages": [
+      { "name": "Kazakh", "level": "5 of 5", "score": 5 },
+      { "name": "Russian", "level": "5 of 5", "score": 5 },
+      { "name": "English", "level": "4 of 5", "score": 4 }
+    ]
+  }
+}
