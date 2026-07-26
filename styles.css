@@ -152,7 +152,6 @@ h2 { margin-bottom: 0; font: 600 clamp(46px, 6vw, 82px)/.98 var(--display); lett
 .timeline-content h3 { margin: 6px 0 24px; font: 600 clamp(27px, 3vw, 40px)/1.1 var(--display); letter-spacing: -.04em; }
 .timeline-content ul { max-width: 700px; margin: 0 0 26px; padding-left: 18px; color: var(--muted); }
 .timeline-content li { padding: 5px 0 5px 8px; }
-.timeline-content li:first-child { color: var(--ink); font-weight: 600; }
 .tag-list { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag-list span { padding: 7px 12px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 12px; }
 
